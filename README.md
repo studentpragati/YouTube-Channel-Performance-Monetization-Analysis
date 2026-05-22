@@ -31,4 +31,7 @@ Subscriber growth peaks around August–September seasonally
 
  Impact: Enables creators to identify high-monetization categories and benchmark against top performers by country
 
+## Dashboard Output
+Single-page Power BI dashboard with KPI cards, country-wise bar chart, category avg subscribers bar chart, most profitable YouTuber table, dual-axis seasonality line chart, monthly earnings bar chart, and country-wise profitable YouTuber bar chart.
+
 
