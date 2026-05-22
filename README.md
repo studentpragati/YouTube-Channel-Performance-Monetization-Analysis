@@ -29,6 +29,6 @@ Animals channel type earns the highest monthly average at 2.8M
 DaFuq!?Boom! (USA) leads yearly earnings at $110.6M
 Subscriber growth peaks around August–September seasonally
 
-##Impact: Enables creators to identify high-monetization categories and benchmark against top performers by country
+## Impact: Enables creators to identify high-monetization categories and benchmark against top performers by country
 
 
